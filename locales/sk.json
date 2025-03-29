@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "for": "Menu pre *{{day}}*",
+    "not_published": "Menu nebolo zverejnené :disappointed:",
+    "fallback": "Denné menu pre {{name}}: {{web}}",
+    "current_offer": "Tu je aktuálna ponuka",
+    "no_offer": "Bohužiaľ, nemám žiadne ponuky na dnes."
+  },
+  "recommendation": {
+    "no_recommendation": "Dnes ti nemôžem nič odporučiť. Nemám z čoho vyberať.",
+    "too_many_options": "Hmm... mám viac možností, ako zvládam...",
+    "where_to_eat": "Kam by sme mali ísť na obed?",
+    "error": "Som zmätený, niečo nie je v poriadku pod kapotou."
+  },
+  "app": {
+    "started": "Bolt app spustený!",
+    "exit_message": "Kto zakopol o kábel? ... `obed-bot opustil miestnosť`"
+  }
+}

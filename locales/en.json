@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "for": "Menu for *{{day}}*",
+    "not_published": "Menu was not published :disappointed:",
+    "fallback": "Daily menu for {{name}}: {{web}}",
+    "current_offer": "Here is the current offer",
+    "no_offer": "Unfortunately, I have no offers for today."
+  },
+  "recommendation": {
+    "no_recommendation": "I can't recommend anything today. I have nothing to work with.",
+    "too_many_options": "Hmm... I have more options than I can handle...",
+    "where_to_eat": "Where should we go for lunch?",
+    "error": "I'm confused, something is wrong under the hood."
+  },
+  "app": {
+    "started": "Bolt app started!!",
+    "exit_message": "Who tripped over the cable? ... `obed-bot has left the room`"
+  }
+}

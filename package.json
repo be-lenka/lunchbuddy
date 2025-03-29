@@ -1,0 +1,46 @@
+{
+  "name": "lunchbuddy",
+  "version": "1.0.0",
+  "description": "A Slack bot that retrieves offers from nearby restaurants and provides information about daily menus.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "slack",
+    "slack bot",
+    "lunch bot",
+    "restaurant bot",
+    "daily menu",
+    "restaurant offers",
+    "food bot",
+    "lunch helper",
+    "menu scraper",
+    "restaurant scraper",
+    "catering bot",
+    "dinner bot",
+    "food recommendations",
+    "lunchbuddy",
+    "slack integration"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^4.2.1",
+    "@slack/client": "^4.0.0",
+    "chance": "^1.0.1",
+    "cheerio": "^0.20.0",
+    "dotenv": "^2.0.0",
+    "encoding": "^0.1.12",
+    "i18n": "^0.15.1",
+    "node-schedule": "^1.0.0",
+    "request": "^2.69.0",
+    "restify": "^11.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sinon": "^15.0.0",
+    "sinon-chai": "^3.7.0"
+  }
+}
