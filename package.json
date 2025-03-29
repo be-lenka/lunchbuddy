@@ -24,7 +24,7 @@
     "lunchbuddy",
     "slack integration"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "@slack/bolt": "^4.2.1",
     "@slack/client": "^4.0.0",
