@@ -1,20 +1,23 @@
 # LunchBuddy Slack Bot
 
+<center>
+   
+![obrázok](https://github.com/user-attachments/assets/157c980b-afca-4396-a373-ec2ba6a7a611)
+</center>
+
 LunchBuddy is a Slack bot designed to simplify your lunch planning. It fetches daily menu offers from nearby restaurants and displays them directly in your Slack workspace. With features like restaurant-specific menu queries, lunch polls, and seamless Slack integration, LunchBuddy is the ultimate tool for teams deciding where to eat.
 
 ## List of Basic Commands:
 
-#### `what's for lunch today?`
+#### `shall we lunch?`
 
 Displays a list of all restaurants along with their daily menus.
 
-![screenshot1](https://user-images.githubusercontent.com/6382002/28791040-5ee569ea-762b-11e7-875b-69e4f0e00eee.png)
+![obrázok](https://github.com/user-attachments/assets/f2285ddd-a30f-45c8-8a87-bb6f82c5dbf7)
 
-#### `where to go for lunch`
+#### `what is the offer?`
 
 Triggers a simple poll with the question "Where should we go for lunch?"
-
-![screenshot2](https://user-images.githubusercontent.com/6382002/28791042-5ef03690-762b-11e7-90cd-7b239dec4c5d.png)
 
 ## Installation
 
@@ -142,18 +145,6 @@ Or start a direct message with the bot.
 ```bash
 npm test
 ```
-
----
-
-## Screenshots
-
-### Daily Menu Command
-
-@tbd
-
-### Poll Command
-
-@tbd
 
 ---
 
