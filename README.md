@@ -11,13 +11,13 @@ LunchBuddy is a Slack bot designed to simplify your lunch planning. It fetches d
 
 #### `shall we lunch?`
 
-Displays a list of all restaurants along with their daily menus.
+Triggers a simple poll with the question "Where should we go for lunch?"
 
 ![obrázok](https://github.com/user-attachments/assets/f2285ddd-a30f-45c8-8a87-bb6f82c5dbf7)
 
 #### `what is the offer?`
 
-Triggers a simple poll with the question "Where should we go for lunch?"
+Displays a list of all restaurants along with their daily menus.
 
 ## Installation
 
