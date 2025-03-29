@@ -145,9 +145,3 @@ Or start a direct message with the bot.
 ```bash
 npm test
 ```
-
----
-
-## License
-
-This project is licensed under the MIT License.
