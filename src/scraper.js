@@ -11,7 +11,7 @@ const sources = Config.sources;
 // Configure i18n
 i18n.configure({
     locales: Config.locales,
-    directory: __dirname + '/locales',
+    directory: __dirname + '/../locales',
     defaultLocale: Config.defaultLang,
     objectNotation: true
 });
