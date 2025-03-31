@@ -61,6 +61,13 @@ module.exports = {
 
     // Restaurant sources
     sources: {
+        kantina: {
+            name: 'Kantina Postova',
+            web: 'https://restauracie.sme.sk/restauracia/kantina-postova_10777-zilina_2737/denne-menu',
+            parser: 'parserRestauracieSme',
+            timestamp: 0,
+            items: []
+        },
         // Restaurant identifier
         voyage: {
             // Restaurant name
@@ -100,7 +107,14 @@ module.exports = {
             parser: 'parserRestauracieSme',
             timestamp: 0,
             items: []
-        }
+        },
+        nimbu: {
+            name: 'Nimbu',
+            web: 'https://restauracie.sme.sk/restauracia/nimbu-zilina-indicka-restauracia_14764-zilina_2737',
+            parser: 'parserRestauracieSme',
+            timestamp: 0,
+            items: []
+        },
     },
 
     // Icons for voting (max 10)
